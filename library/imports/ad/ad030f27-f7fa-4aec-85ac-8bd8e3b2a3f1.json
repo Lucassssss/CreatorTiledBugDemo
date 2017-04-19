@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lv10_fangzi",
+    "texture": "191ee958-1dca-4fa5-881c-8970043ceecc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      161,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      161,
+      164
+    ]
+  }
+}

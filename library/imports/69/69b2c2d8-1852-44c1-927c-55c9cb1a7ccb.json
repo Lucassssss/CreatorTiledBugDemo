@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fantasy-tileset",
+    "texture": "6eb171a6-0d4b-434b-a72d-900d1d5dc05a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      832
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      832
+    ]
+  }
+}

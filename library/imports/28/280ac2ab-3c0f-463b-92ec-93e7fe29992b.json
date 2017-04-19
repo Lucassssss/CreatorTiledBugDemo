@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "grass_and_water_0",
+    "texture": "e1b5382a-1113-4818-a6e6-b3ffbdefa75b",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      64,
+      45
+    ],
+    "offset": [
+      0,
+      5.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

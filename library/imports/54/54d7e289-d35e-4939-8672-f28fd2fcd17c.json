@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_tree01",
+    "texture": "19c7b79a-4720-4aaf-8a73-30057807ef1f",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      210,
+      196
+    ],
+    "offset": [
+      -1.5,
+      -1.5
+    ],
+    "originalSize": [
+      213,
+      199
+    ]
+  }
+}

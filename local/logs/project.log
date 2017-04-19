@@ -1,0 +1,67 @@
+2017-04-19T02:59:41.698Z - normal: Load ~/.CocosCreator/settings.json
+2017-04-19T02:59:41.711Z - normal: checking language setting...
+2017-04-19T02:59:41.712Z - normal: Language: zh
+2017-04-19T02:59:42.717Z - success: protocol editor-framework registered
+2017-04-19T02:59:42.717Z - success: protocol app registered
+2017-04-19T02:59:42.717Z - success: protocol theme registered
+2017-04-19T02:59:42.718Z - success: protocol profile registered
+2017-04-19T02:59:42.718Z - success: protocol packages registered
+2017-04-19T02:59:42.723Z - success: protocol unpack registerred
+2017-04-19T02:59:42.724Z - success: protocol disable-commonjs registerred
+2017-04-19T02:59:42.964Z - normal: connected!
+2017-04-19T02:59:42.971Z - normal: Check project /Users/apple/workspace/cocos/tiledMapTest
+2017-04-19T02:59:42.976Z - normal: Initializing Cocos2d
+2017-04-19T02:59:43.357Z - normal: Initializing Asset Database
+2017-04-19T02:59:43.421Z - success: protocol uuid registerred
+2017-04-19T02:59:43.422Z - success: protocol db registerred
+2017-04-19T02:59:43.422Z - success: protocol thumbnail registerred
+2017-04-19T02:59:43.422Z - normal: Loading editor/builtin packages
+2017-04-19T02:59:43.463Z - success: anysdk loaded
+2017-04-19T02:59:43.759Z - success: assets loaded
+2017-04-19T02:59:43.768Z - success: builder loaded
+2017-04-19T02:59:43.777Z - success: hierarchy loaded
+2017-04-19T02:59:43.788Z - success: inspector loaded
+2017-04-19T02:59:43.790Z - success: keystore loaded
+2017-04-19T02:59:43.798Z - success: node-library loaded
+2017-04-19T02:59:43.803Z - success: preferences loaded
+2017-04-19T02:59:43.835Z - success: project-importer loaded
+2017-04-19T02:59:43.843Z - success: project-settings loaded
+2017-04-19T02:59:43.850Z - success: ui-kit loaded
+2017-04-19T02:59:43.867Z - success: ui-grid loaded
+2017-04-19T02:59:43.876Z - success: scene loaded
+2017-04-19T02:59:43.879Z - success: sprite-editor loaded
+2017-04-19T02:59:43.959Z - success: store loaded
+2017-04-19T02:59:43.970Z - success: timeline loaded
+2017-04-19T02:59:43.971Z - normal: Loading builtin packages
+2017-04-19T02:59:43.982Z - success: asset-db-debugger loaded
+2017-04-19T02:59:43.984Z - success: code-editor loaded
+2017-04-19T02:59:43.985Z - success: color-picker loaded
+2017-04-19T02:59:43.993Z - success: console loaded
+2017-04-19T02:59:44.002Z - success: package-manager loaded
+2017-04-19T02:59:44.009Z - success: tester loaded
+2017-04-19T02:59:44.020Z - success: ui-kit-preview-extra loaded
+2017-04-19T02:59:44.028Z - success: ui-kit-preview loaded
+2017-04-19T02:59:44.039Z - success: ui-tree loaded
+2017-04-19T02:59:44.121Z - normal: Initializing project /Users/apple/workspace/cocos/tiledMapTest
+2017-04-19T02:59:44.124Z - normal: Loading packages
+2017-04-19T02:59:44.252Z - success: unpack-textureatlas loaded
+2017-04-19T02:59:44.253Z - normal: Watching packages
+2017-04-19T02:59:44.290Z - normal: Run Application
+2017-04-19T02:59:47.091Z - success: preview server running at http://localhost:7457
+2017-04-19T02:59:47.092Z - normal: Compiling scripts...
+2017-04-19T02:59:51.831Z - normal: Compiled project javascript file successfully
+2017-04-19T03:00:00.360Z - normal: 1.5.0-beta.1
+2017-04-19T03:35:34.039Z - failed: Task [save-editor-mode:[scene]] run error, stop running other tasks.
+ Error: ipc timeout. message: scene:save-scene, session: 2@renderer:37849
+    at r.Error (native)
+    at new r (/Applications/CocosCreator 2.app/Contents/Resources/app.asar/editor-framework/lib/share/ipc.js:1:1682)
+    at /Applications/CocosCreator 2.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:404
+2017-04-19T03:35:34.043Z - error: ipc timeout. message: scene:save-scene, session: 2@renderer:37849
+    at Object.callback (/Applications/CocosCreator 2.app/Contents/Resources/app.asar/editor/page/scene-utils/edit-mode.js:1:2679)
+    at /Applications/CocosCreator 2.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:906:35
+    at _arrayEach (/Applications/CocosCreator 2.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:85:13)
+    at /Applications/CocosCreator 2.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:898:17
+    at /Applications/CocosCreator 2.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:44:16
+    at Object.<anonymous> (/Applications/CocosCreator 2.app/Contents/Resources/app.asar/editor/page/scene-utils/tasks.js:1:337)
+    at Object.callback (/Applications/CocosCreator 2.app/Contents/Resources/app.asar/editor/page/scene-utils/edit-mode.js:1:2337)
+    at /Applications/CocosCreator 2.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:395
